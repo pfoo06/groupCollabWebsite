@@ -6,6 +6,7 @@
 nav ul {display:block;list-style-type: none;border-radius: 0;}
 
 nav ul li{float:left;text-decoration: none;}
+body {background-color: #1f3a56; color: lightgray;}
 body {background-color: #1f3a56;color:#f1eacd;}
 nav ul li a{display: block;
             color: #f1eacd;
@@ -18,6 +19,43 @@ nav ul li a{display: block;
 nav ul li a:hover{background-color:#022f2e;text-decoration: none;}
 ul li a.active {
   background-color: #006A67;;
+}
+
+.algogiff{
+    width: 300px;
+    height: 300px;
+
+    border-radius: 10px;
+    width: auto;
+}
+
+
+
+
+.mainerino {
+    text-align:center;
+    clear:left; 
+    padding: 15px 15px; 
+    margin-left:25px;
+}
+
+.Images {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top:20px;    
+}
+
+.ImageBit {
+    text-align:center;
+    width: 350px;
+}
+
+.ImageBit img {
+    width:350px;
+    border-radius: 10px;
+    height:auto;
+    margin-bottom: 20px
 }
 p{width:50;}
 div{width:80%}
