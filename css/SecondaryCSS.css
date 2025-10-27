@@ -6,9 +6,9 @@
 nav ul {display:block;list-style-type: none;border-radius: 0;}
 
 nav ul li{float:left;text-decoration: none;}
-body {background-color: #1f3a56;color:rgb(226, 219, 219);}
+body {background-color: #1f3a56;color:#f1eacd;}
 nav ul li a{display: block;
-            color: rgb(226, 219, 219);
+            color: #f1eacd;
             text-align: center;
             padding: 15px 15px;
             text-decoration: none;
@@ -19,4 +19,8 @@ nav ul li a:hover{background-color:#022f2e;text-decoration: none;}
 ul li a.active {
   background-color: #006A67;;
 }
-.home{clear:left;padding: 15px 15px;margin-left:25px;}
+p{width:50;}
+div{width:80%}
+.home h2{clear:left;padding: 15px 15px;margin-left:25px;overflow: hidden;}
+.home p{clear:none;padding: 15px 15px;margin-left:25px;overflow: hidden;}
+aside p{clear:none;float:right;width: 100px;margin-left: 20px;margin-right:20px;}
