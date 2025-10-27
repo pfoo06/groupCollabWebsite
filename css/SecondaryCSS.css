@@ -20,12 +20,28 @@ ul li a.active {
   background-color: #006A67;;
 }
 
+
 .mainerino {
+    text-align:center;
     clear:left; 
     padding: 15px 15px; 
     margin-left:25px
 }
 
-h1 {
-    text-align:centre
+.Images {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top:20px;
+}
+
+.ImageBit {
+    text-align:center;
+    width: 250px;
+}
+
+.ImageBit img {
+    width:250px;
+    border-radius: 10px;
+    height:auto
 }
