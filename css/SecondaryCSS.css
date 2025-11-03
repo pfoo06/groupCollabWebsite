@@ -24,7 +24,6 @@ ul li a.active {
 .algogiff{
     width: 300px;
     height: 300px;
-
     border-radius: 10px;
     width: auto;
 }
@@ -34,7 +33,6 @@ ul li a.active {
     text-align:center;
     clear:left; 
     padding: 15px 15px; 
-    margin-left:25px;
 }
 
 .Images {
@@ -55,8 +53,7 @@ ul li a.active {
     height:auto;
     margin-bottom: 20px
 }
-p{width:50;}
-div{width:80%}
+
 .home h2{clear:left;padding: 15px 15px;margin-left:25px;overflow: hidden;}
 .home p{clear:none;padding: 15px 15px;margin-left:25px;overflow: hidden;}
 aside p{clear:none;float:right;width: 100px;margin-left: 20px;margin-right:20px;}
