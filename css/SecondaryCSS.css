@@ -54,6 +54,8 @@ ul li a.active {
     margin-bottom: 20px
 }
 
-.home h2{clear:left;padding: 15px 15px;margin-left:25px;overflow: hidden;}
+.home h2{clear:left;padding: 10px 10px;margin-top:30px;margin-left:25px;overflow: hidden;}
 .home p{clear:none;padding: 15px 15px;margin-left:25px;overflow: hidden;}
-aside p{clear:none;float:right;width: 100px;margin-left: 20px;margin-right:20px;}
+aside p{clear:none;float:right;width: 20%;margin-left: 20px;margin-right:20px;}
+
+#hpage_img {margin-left:40px; width:45%; border-radius: 15px;}
